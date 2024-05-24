@@ -2,10 +2,9 @@
 
 This simple web application is an ideal 'product' for interviewing QA. Think of it as the '[fizz-buzz](https://www.hackerrank.com/challenges/fizzbuzz/problem)' equivalent for QA. We recommend reserving one round (between 30-60 minutes) of the interview for testing this application. 
 
-This application was designed by [Qxf2 Services](https://www.qxf2.com/?utm_source=qa-interview&utm_medium=click&utm_campaign=From%20QA%20Interview). Qxf2 provides QA for startups.
-
 For convenience, this app has been hosted at: [http://qainterview.pythonanywhere.com](http://qainterview.pythonanywhere.com). 
 
+This application was designed by Gitlab Hiring Services. 
 
 ## Features of the 'Fizz buzz for QA' application
 
@@ -70,7 +69,3 @@ Apart from technical skills, you can also pick up on several characteristics. He
 * Do they ask good questions about context (why am I even testing this? who is going to use this? etc.)
 
 For general advice on interviewing QA engineers effectively, refer to [A better way to interview QA engineers](https://qxf2.com/a-better-way-to-interview-qa).
-
-## Solutions
-
-We haven't really documented our test strategy and the bugs anywhere. For now, just write to Arun (mak@qxf2.com) if you want a quick overview of all the bugs and how a typical interview will look like.
